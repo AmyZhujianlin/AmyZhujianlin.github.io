@@ -27,8 +27,10 @@ body {
 <p>雕栏玉砌应犹在，只是朱颜改。</p>
 <p>问君能有几多愁？恰似一江春水向东流。</p>
 <div>
+<!--
 <img src="../image/zhiwu.jpg" alt="图片"/>
 <img src="http://ppt.downhot.com/d/file/p/2014/03/13/0673249a8d8942271ac07b975049b531.jpg" alt="图片"/>
+-->
 <img src="http://ww2.sinaimg.cn/mw600/85d79bcbjw1erfqy6elehg20ao060hdt.jpg" alt="图片"/>
 </div>
 </div>
