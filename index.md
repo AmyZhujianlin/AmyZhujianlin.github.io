@@ -8,17 +8,20 @@
 body {
   font-family: "Times New Roman", "微软雅黑", "Arial", "Helvetica", "sans-serif";
   font-size: 16px;
+  background-image: url('http://pic.58pic.com/58pic/13/56/96/85r58PICQpz_1024.jpg')
 }
 .content {
-  background-image: url('http://pic.58pic.com/58pic/13/56/96/85r58PICQpz_1024.jpg')
+  text-align: center;
+  margin: auto;
+  padding-top: 10px;
 }
 </style>  
 </head>
 <body>
 <div class="content">
 我的第一个Github空间
-<h2>Hello World</h2>
-<h3>做些什么呢？</h3>
+<h2>Hello World , 做些什么呢？</h2>
+
 <h3>虞美人-李煜</h3>
 <p>春花秋月何时了，往事知多少？</p>
 <p>小楼昨夜又东风，故国不堪回首月明中。</p>
