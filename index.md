@@ -32,9 +32,11 @@ body {
 </a>
 <h3>点击图片打开新的页面</h3>
 </div>
+<h4>文章链接</h4>
 <a href="https://buluo.qq.com/p/detail.html?bid=10174&pid=8569230-1483451538&from=share_copylink" target="_blank">
 愿你爱得起，愿你放得下
 </a>
+<br>
 <a href="https://buluo.qq.com/p/detail.html?bid=10174&pid=7719443-1483430475&from=share_copylink" target="_blank">
 如果实在放不下，那就继续喜欢吧
 </a>
